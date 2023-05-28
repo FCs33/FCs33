@@ -5,8 +5,7 @@
         <br> I’m currently learning <b>vue.js & java</b>
         <br>
     </samp>
-    <img align="middle"
-        src="https://github-readme-stats.vercel.app/api?username=iiwowks&show_icons=true&theme=synthwave&hide_title=true" />
+    
 </p>
 
 
