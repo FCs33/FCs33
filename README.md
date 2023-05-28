@@ -9,13 +9,7 @@
         src="https://github-readme-stats.vercel.app/api?username=iiwowks&show_icons=true&theme=synthwave&hide_title=true" />
 </p>
 
-<details align="center">
-    <summary> <b> <samp> Most used languanges </samp></b></summary>
-    <samp>
-        <img align="middle"
-            src="https://github-readme-stats.vercel.app/api/top-langs/?username=iiwowks&hide_title=true&layout=compact" />
-    </samp>
-</details>
+
 
 <details align="center">
     <summary> <b> <samp> Current project </samp></b></summary>
